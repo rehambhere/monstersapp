@@ -1,0 +1,13 @@
+{
+  "main.css": "/monstersapp/static/css/main.5e67a508.chunk.css",
+  "main.js": "/monstersapp/static/js/main.c3743542.chunk.js",
+  "main.js.map": "/monstersapp/static/js/main.c3743542.chunk.js.map",
+  "static/js/1.b7f6a85a.chunk.js": "/monstersapp/static/js/1.b7f6a85a.chunk.js",
+  "static/js/1.b7f6a85a.chunk.js.map": "/monstersapp/static/js/1.b7f6a85a.chunk.js.map",
+  "runtime~main.js": "/monstersapp/static/js/runtime~main.853cd9c0.js",
+  "runtime~main.js.map": "/monstersapp/static/js/runtime~main.853cd9c0.js.map",
+  "static/css/main.5e67a508.chunk.css.map": "/monstersapp/static/css/main.5e67a508.chunk.css.map",
+  "index.html": "/monstersapp/index.html",
+  "precache-manifest.9a060293759455e41fa7f7dff453d084.js": "/monstersapp/precache-manifest.9a060293759455e41fa7f7dff453d084.js",
+  "service-worker.js": "/monstersapp/service-worker.js"
+}
