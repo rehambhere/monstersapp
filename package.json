@@ -2,6 +2,7 @@
   "name": "react_crash_todo",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/rehambhere/monstersapp.git",
   "dependencies": {
     "axios": "^0.18.1",
     "react": "^16.7.0",
@@ -10,12 +11,16 @@
     "react-router-dom": "^4.3.1",
     "react-scripts": "2.1.2",
     "uuid": "^3.3.2"
+ 
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy":"npm build",
+    "deploy":"gh-pages -d build"
+
   },
   "eslintConfig": {
     "extends": "react-app"
